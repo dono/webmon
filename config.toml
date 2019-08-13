@@ -1,0 +1,11 @@
+[webmon]
+url = "https://example.com"  # 監視対象のURL
+timeout = 10                 # HTTPリクエストのタイムアウト(sec)
+interval = 5                 # ポーリング間隔(sec), 5はテスト用
+
+
+[slack]
+webhook_url = ""             # Incoming Webhooks, 空文字の場合はSlackを使用しない
+channel = ""                 # Slackチャンネル
+username = "webmon"          # アプリのユーザ名
+alert_prefix = "<!here>"     # エラー通知用のテキスト
