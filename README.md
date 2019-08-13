@@ -2,9 +2,10 @@
 Webサイトの死活監視やパフォーマンス測定を行うプログラム  
 Slack通知機能付き
 
-![slack](https://raw.githubusercontent.com/wiki/dono/webmon/images/slack.png)
+<img src="https://raw.githubusercontent.com/wiki/dono/webmon/images/slack.png" width="70%">
   
-![console](https://raw.githubusercontent.com/wiki/dono/webmon/images/console.png)
+<img src="https://raw.githubusercontent.com/wiki/dono/webmon/images/console.png" width="70%">
+  
 
 
 #### [memo] httptraceのコールバック関数が呼ばれる順番
